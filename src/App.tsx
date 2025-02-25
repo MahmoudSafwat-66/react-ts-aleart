@@ -1,4 +1,4 @@
-import { BellOff, BellRing, CheckCheck, FileWarning, FileWarningIcon, Info, LucideFileWarning, Send, SunMoon } from "lucide-react";
+import { BellOff, BellRing, CheckCheck, Info, Send } from "lucide-react";
 import Alert from "./components/Alert/Alert";
 
 const App = () => {
